@@ -5,19 +5,19 @@ package retrofit_eg.com.retrofit_recycler;
  */
 
 public class AndroidVersion {
-    private String ver;
-    private String name;
-    private String api;
+     String ver;
+     String name;
+     String api;
 
-    private String getVer() {
+     String getVer() {
         return ver;
     }
 
-    private String getName() {
+     String getName() {
         return name;
     }
 
-    private String getApi() {
+     String getApi() {
         return api;
     }
 }
