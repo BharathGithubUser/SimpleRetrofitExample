@@ -9,15 +9,15 @@ public class AndroidVersion {
     private String name;
     private String api;
 
-    public String getVer() {
+    private String getVer() {
         return ver;
     }
 
-    public String getName() {
+    private String getName() {
         return name;
     }
 
-    public String getApi() {
+    private String getApi() {
         return api;
     }
 }
