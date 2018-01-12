@@ -1,0 +1,9 @@
+
+Bsquid:S1659"(Declare "tv_version" on a separate line.(¿Ùä¨úÿÿÿÿ
+‡squid:S1319"rThe type of the "android" object should be an interface such as "List" rather than the implementation "ArrayList".(ŠÕŠ
+msquid:S00116"RRename this field "tv_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ùä¨úÿÿÿÿ
+Dsquid:S1659"*Declare "tv_api_level" on a separate line.(¿Ùä¨úÿÿÿÿ
+rsquid:S00116"WRename this field "tv_api_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ùä¨úÿÿÿÿ
+,squid:S2176"Rename this class.(Â×Öúÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Àéİ€ÿÿÿÿÿ
+psquid:S00116"URename this field "tv_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ùä¨úÿÿÿÿ

@@ -1,0 +1,4 @@
+
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÀéÝ€ÿÿÿÿÿ
+squid:UselessImportCheck"ZRemove this unused import 'android.support.v4.app.NotificationBuilderWithBuilderAccessor'.(¶½Ôêûÿÿÿÿ
